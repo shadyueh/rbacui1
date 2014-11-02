@@ -8,9 +8,6 @@ rbacUI is an extension to the Yii Framework (http://www.yiiframework.com/license
 in the form of a module. rbacUI adds and integrates an UI for maintaining rbac 
 to an existing Yii application.
 
-
-User Interface module for RBAC
-
 User Interface module for RBAC
 
 ##Requirements
