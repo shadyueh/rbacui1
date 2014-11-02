@@ -11,6 +11,8 @@ to an existing Yii application.
 
 User Interface module for RBAC
 
+User Interface module for RBAC
+
 ##Requirements
 
 Yii 1.1 or above.  
